@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Rashmika Jayathilaka 👋
 
-<!--
-**rashmika-jayathilaka/rashmika-jayathilaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business & Data Analytics | Python • SQL • Power BI
 
-Here are some ideas to get you started:
+I'm a business professional with experience in sustainability and ESG, currently developing my capabilities in business analytics, data analysis, and data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning data into meaningful insights and building practical analytical solutions to real-world business problems.
+
+---
+
+## 🔎 Areas of Interest
+
+- 📊 Business & Data Analytics
+- 📈 Business Intelligence & Data Visualization
+- 🐍 Python for Data Analysis
+- 🗄️ SQL & Data Management
+- 💼 Business & Strategy
+- 🌱 Sustainability & ESG Analytics
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Programming & Analytics**
+
+Python · Pandas · NumPy · SQL
+
+**Business Intelligence & Visualization**
+
+Power BI · Excel · Matplotlib
+
+**Development**
+
+Git · GitHub · Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+🚧 Projects are currently being developed.
+
+- 📊 Business Analytics
+- 🐍 Python Data Analysis
+- 🗄️ SQL Analytics
+- 📈 Power BI Dashboard
+- 🏢 Business Intelligence
+- 🌱 Sustainability Analytics
+
+---
+
+## 🎓 Education
+
+**MSc Business Analytics**
+
+**BSc (Hons) Business & Environment**
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/rashmika-jayathilaka-d98/?isSelfProfile=true)
